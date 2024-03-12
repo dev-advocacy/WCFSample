@@ -30,7 +30,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WCFService2", "WCFService2\
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfClientProxyGenerator", "WcfClientProxyGenerator\source\WcfClientProxyGenerator\WcfClientProxyGenerator.csproj", "{56614D90-9EEA-4908-8BEB-7CD6E35BFCB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfClientProxyGenerator", "WcfClientProxyGenerator\WcfClientProxyGenerator\WcfClientProxyGenerator.csproj", "{56614D90-9EEA-4908-8BEB-7CD6E35BFCB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
