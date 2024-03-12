@@ -32,8 +32,8 @@ namespace ConsoleApp1
 
             SingleSoapClient.Instance.Initialize(uri, timeout, timeout, timeout, timeout, retryCount, BackOff);            
             SingleSoapClient.Instance.TestTimeout(1000 * 100);
-            SingleSoapClient.Instance.TestTimeout(1000 * 1);
-            SingleSoapClient.Instance.TestData();
+            //SingleSoapClient.Instance.TestTimeout(1000 * 1);
+            //SingleSoapClient.Instance.TestData();
         }
     }
 }
